@@ -1,0 +1,67 @@
+{
+    "appetizers": [
+        {
+            "itemName": "Chicken Wings",
+            "ingredients": [ "Barbecue Sauce ", "Lime Juice", "Seasoning"],
+            "description": "Chicken Wings that have a been marinated in tasty barbecue sauce and seasoning."
+
+        },
+        {
+            "itemName": "Mozzeralla Sticks",
+            "ingredients": [ "Mozzeralla Cheese", "Flour", "Seasoning", "Breaded"],
+            "description": "Mozzeralla Sticks that are breaded with mounds of mozzeralla cheese."
+                    
+        }
+
+    ],
+    "coldSandwiches": [
+        {
+            "itemName": "Turkey Sandwich",
+            "ingredients": ["white bread", "turkey breast", "lettuce", "mayonnaise", "bacon"],
+            "description": "A delcious Turkey sandwich with fresh lettuce and mayonnaise and crispy bacon."
+        },
+        {
+            "itemName": "Ham Sandwhich",
+            "ingredients": ["white bread", "ham slices", "mustard", "lettuce", "red onions"],
+            "description": "A ham sandwhich with 4 slices with mustard and crunchy fresh lettuce topped of with spicy onion slices ."
+        }
+    ],
+    "hotSandwiches": [
+        {
+            "itemName": "Philly Cheesesteak",
+            "ingredients": ["premium steak slices", "grilled onions", "mushrooms","bell peppers", "provolone cheese", "American Cheese", "baked bread"],
+            "description": "Hot Philly Steakcheese sandwhich with premium steak, grilled onions, American cheese, smothered with mushrooms, bell peppers and provolone cheese with our baked fresh bread."
+        },
+        {
+            "itemName": "Chicken Philly",
+            "ingredients": ["Chicken", "American cheese","provolone cheese", "mayonnaise","bell peppers","grilled onions", "baked bread"],
+            "description": "Grilled chicken, provolone cheese and American cheese wtih grilled onions and fresh bell peppers with mayonnaise and fresh baked bread."
+        }
+    ],
+    "desserts": [
+        {
+            "itemName": "Chocolate Carmel Cheesecake",
+            "ingredients": ["Cocoa", "All-Purpose Flour", "Sugar", "Baking Powder", "Vanilla Extract", "Vanilla Waffers","Wallnuts", "Cream Cheese", "Caramels", "Evaporated Milk", "Whip Cream", "Cherries"],
+            "description": "A rich delicious chocolate cheesecake with drizzled caramel topped with wallnuts and whip cream."
+        },
+        {
+            "itemName": "Hot Fudge Sundae",
+            "ingredients": ["Vanilla Ice Cream", "Hot Fudge", "Roasted Peanuts", "Cherries"],
+            "description": "A soft vanilla ice cream topped with hot fudge and roasted peanuts and cherries on top."
+        }
+    ],
+    "drinks": [
+        {
+            "itemName": "Cucumbar Water",
+            "ingredients": ["Cucumbar", "Limes", "Spring Water"],
+            "description": "Refeshing healthy drink with Cucumbar slices and healthy limes and spring water."
+        },
+        {
+            "itemName": "Lemon Iced Green Tea",
+            "ingredients": ["Lemon", "Green Tea", "Organic Sugar", "Spring Water"],
+            "description": "Tasty lemon green tea with organic sweetness and healthy spring water."
+        }
+    ]
+
+
+}
