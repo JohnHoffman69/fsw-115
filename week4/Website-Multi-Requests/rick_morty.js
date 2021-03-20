@@ -25,5 +25,8 @@ function rick_morty() {
       name.style.textDecorationLine = "underline"
 
     }
-  });
+})
+.catch(error => console.log(error))
 }
+ 
+

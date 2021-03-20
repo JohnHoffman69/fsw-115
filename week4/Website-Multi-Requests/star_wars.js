@@ -25,8 +25,8 @@ function star_wars() {
       document.getElementById("starwars").appendChild(gender);
       document.getElementById("starwars").appendChild(skincolor);
 
-      name.style.textDecorationLine = "underline"
-
+      name.style.textDecorationLine = "underline"  
     }
-  });
+})
+.catch(error => console.log(error))
 }

@@ -1,0 +1,76 @@
+html {
+    height: 300%;
+    background-image: linear-gradient(green, black);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:black;
+}
+
+.enterbox {
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.2em;
+    color: black;
+}
+
+form {
+    text-align: center;
+    padding: 20px;
+}
+
+input {
+    width: 300px;
+    height: 40px;
+    border: goldenrod;
+    font-size: 1.9em;
+    padding-left: 10px;
+    margin-right: 20px;
+}
+
+
+
+button {
+    font-size: 1.5em;
+    color: goldenrod;
+    background-color: black;    
+    width: 100px;
+    height: 50px;
+    box-shadow: 7px 7px 7px;
+    
+}
+
+.alltasks {
+  
+  margin-top: 25px;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding-bottom: 10px;
+  padding-right: 40px;
+  background-color: goldenrod;
+}
+
+.todo {
+    box-shadow: 7px 7px 7px;
+  
+  }
+
+ul {
+  list-style-type: square;
+  font-size: 20px;
+}
+
+li {
+  font-size: 1.2;
+  box-shadow: 10px 10px 10px;  
+  padding-bottom: 5px;
+  padding-top: 15px;
+  
+  
+}
+
